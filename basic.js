@@ -50,7 +50,7 @@ form.addEventListener("submit", function(event) {
 
     const gender = genderElement ? genderElement.value : "";
 
-    console.log(name);
+    //console.log(name);
     console.log(course);
     console.log(gender);
 });
